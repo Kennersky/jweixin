@@ -1,7 +1,7 @@
 微信官方 js-sdk 最新版本（定期更新）
 ----
 
-说明: 仅将官方 js-sdk 发布到 npm，支持 CommonJS，便于 browserify, webpack 等直接使用
+说明: 仅将官方 js-sdk 发布到 npm，支持 CommonJS，便于 browserify, webpack 等直接使用；1.5.x即将废弃旧的分享接口
 
 js源码: https://res.wx.qq.com/open/js/jweixin-1.5.0.js
 
